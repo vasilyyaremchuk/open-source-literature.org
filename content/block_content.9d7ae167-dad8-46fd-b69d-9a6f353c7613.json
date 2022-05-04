@@ -18,7 +18,7 @@
     ],
     "revision_created": [
         {
-            "value": "2022-04-26T16:13:05+00:00",
+            "value": "2022-05-04T17:54:46+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -41,7 +41,7 @@
     ],
     "changed": [
         {
-            "value": "2022-04-26T16:13:05+00:00",
+            "value": "2022-05-04T17:54:46+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -62,19 +62,19 @@
     ],
     "body": [
         {
-            "value": "<h2>Welcome!<\/h2><p>Thanks for using Tome and Netlify! This template comes with <a href=\"https:\/\/github.com\/drupal-tome\/bookish\">Bookish<\/a> pre-installed, but if you want a more minimal experience you can re-install Drupal with a different profile.<\/p>",
+            "value": "<h2>Let's design the future together!<\/h2><p>We propose absolutely new concept of Literature. The artworks of it will be free, flexible, ready for continuous improvement, and with an unlimited lifetime. The novel can follow the new life changes and can be up-to-date and clear for any new generation and it can be better and better with each new version. Everybody can contribute and change the world.<br>&nbsp;<\/p><p>Please, read <a href=\"https:\/\/github.com\/vasilyyaremchuk\/open-source-literature-manifesto\">Open Source Literature Manifesto<\/a>.<\/p>",
             "format": "callout_text",
             "summary": ""
         }
     ],
     "field_image": [
         {
-            "alt": "A bridge in front of a waterfall.",
+            "alt": "Photo by Surendran MP on Unsplash.",
             "title": "",
-            "width": 1920,
-            "height": 1280,
+            "width": 4032,
+            "height": 3024,
             "target_type": "file",
-            "target_uuid": "c26560d2-458d-459b-af49-1ca6ec259eda"
+            "target_uuid": "49ecaad2-e4ef-4833-b58d-2c795cd42ada"
         }
     ]
 }

@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-04-26T16:02:18+00:00",
+            "value": "2022-05-04T18:53:11+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "40c31d00-a7c1-4c41-97cf-b8afec38ff0d"
+            "target_uuid": "bfbf5663-558c-4ac7-97da-c302be9d2c6a"
         }
     ],
     "revision_log": [],
@@ -42,18 +42,18 @@
     ],
     "title": [
         {
-            "value": "Images just can't describe it"
+            "value": "Initial version of the Open Source Literature Manifesto"
         }
     ],
     "created": [
         {
-            "value": "2022-04-26T16:02:25+00:00",
+            "value": "2021-10-28T16:02:25+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2022-04-26T16:02:18+00:00",
+            "value": "2022-05-04T18:53:11+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,18 +79,27 @@
     ],
     "path": [
         {
-            "alias": "\/blog\/images-just-cant-describe-it",
+            "alias": "\/blog\/initial-version-open-source-literature-manifesto",
             "langcode": "en",
             "pathauto": 1
         }
     ],
     "body": [
         {
-            "value": "<p>Bitters brunch selvage celiac migas cred salvia flannel ethical gluten-free pop-up. Succulents photo booth authentic, skateboard tousled vinyl hell of single-origin coffee aesthetic chia farm-to-table gentrify pop-up affogato tattooed. Readymade lo-fi 90's asymmetrical hoodie, yr intelligentsia synth unicorn single-origin coffee edison bulb put a bird on it next level. Neutra godard master cleanse whatever tilde, copper mug before they sold out photo booth shoreditch pinterest next level snackwave sartorial. Cloud bread fanny pack street art fam, 90's flexitarian ugh snackwave biodiesel slow-carb ramps squid venmo.<\/p>\n<pre><code class=\"language-php\">&lt;?php\necho \"You can embed code snippets\";\nif (TRUE) {\n  echo \"They're automatically highlighted!\";\n}<\/code><\/pre>\n<h2>Headings automatically have anchor links<\/h2>\n<p>Brunch fashion axe helvetica affogato blue bottle, fixie shoreditch venmo. Post-ironic hexagon truffaut vegan crucifix, waistcoat ugh chillwave flannel. Deep v pop-up iPhone chia, live-edge blog pork belly etsy PBR&B. Vape disrupt air plant XOXO wayfarers coloring book banh mi knausgaard. Roof party fanny pack forage raw denim poutine humblebrag. Semiotics swag tumblr, vaporware truffaut bushwick tote bag poutine fam enamel pin salvia affogato.<\/p>",
+            "value": "<p>Today I've finished the first version of the Open Source Literature Manifesto. I'm excited that it could be a new page in the World of literature. The artworks shouldn't be dead and feezed but should be developed and improved by each new generation of people.&nbsp;<br><br><a href=\"https:\/\/github.com\/vasilyyaremchuk\/open-source-literature-manifesto\/tree\/v0.1-alpha\"><u>https:\/\/github.com\/vasilyyaremchuk\/open-source-literature-manifesto\/tree\/v0.1-alpha<\/u><\/a><br><br>Please read and propose improvements, because that manifesto is also Open Source!<\/p><p>&nbsp;<\/p><p>&nbsp;<\/p>",
             "format": "rich_text",
-            "summary": null
+            "summary": ""
         }
     ],
-    "field_image": [],
+    "field_image": [
+        {
+            "alt": "Photo by Roman Synkevych \ud83c\uddfa\ud83c\udde6 on Unsplash.",
+            "title": "",
+            "width": 5225,
+            "height": 3599,
+            "target_type": "file",
+            "target_uuid": "38671dd0-6f16-427f-88de-94dbcd9d1b31"
+        }
+    ],
     "field_tags": []
 }
