@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ba2cdb23-d908-4dfc-b1d8-76ad3cda2f39"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2e62e086-efa8-46ae-9c18-a4a1cfac0653"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/blog\/scrum-training-without-any-coding-activity-one-more-applying-open-source-literature"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

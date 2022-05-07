@@ -1,0 +1,105 @@
+{
+    "uuid": [
+        {
+            "value": "2e62e086-efa8-46ae-9c18-a4a1cfac0653"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "blog",
+            "target_type": "node_type",
+            "target_uuid": "ccc4c3e6-89cf-428a-947b-279efd6552e2"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-05-07T10:37:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "bfbf5663-558c-4ac7-97da-c302be9d2c6a"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "bfbf5663-558c-4ac7-97da-c302be9d2c6a"
+        }
+    ],
+    "title": [
+        {
+            "value": "SCRUM training without any coding activity is one more applying of the Open Source Literature "
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-05-07T05:43:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-07T10:37:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/blog\/scrum-training-without-any-coding-activity-one-more-applying-open-source-literature",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>You have a team that you want to make work together in the most effective way. You know the SCRUM is a good workflow to deliver a product in small steps (Sprints).&nbsp;<br><br>If you don't know how it works, please read <a href=\"https:\/\/en.wikipedia.org\/wiki\/Scrum_(software_development)\">the article on Wikipedia<\/a>. For further reading, I expect that you are familiar with SCRUM.<br><br>In that article, I propose a proof of concept of the SCRUM training for non-technical people. They don't know JavaScript of Php or even HTML, so we can't make them create some software project together. We could teach them to work with a page builder in WordPress and play with the development of a non-profit informational site or some fund-raising or charity landing page. The main idea is that as the result we should have something feasible and valuable. The main idea is to demonstrate to people how teamwork can be effective and fun.&nbsp;<br>&nbsp;<\/p><img src=\"\/sites\/default\/files\/inline-images\/lala-azizli-cBUTPbTeDB0-unsplash.jpg\" data-entity-uuid=\"e391e39f-b61f-4336-931b-02e38a047c75\" data-entity-type=\"file\" alt=\"Teamwork: Photo by Lala Azizli on Unsplash.\"><p><br>I would like to propose to you another way to train teamwork. It's Open Source Literature. Let's the project will be to write a fairy tale. &nbsp;&nbsp;<\/p><p>You need to assign one person to be the product owner. He or she has to request the topic of the story and share some other requirements. Alternatively, you can set up Sprint 0 or the so-called discovery phase where all team members together can decide about the main topic of the story and get the ballpark plot.<\/p><p>How can we set up and split tasks between team members?&nbsp;<br>&nbsp;<\/p><img src=\"\/sites\/default\/files\/inline-images\/parabol--00U7K5eRA8-unsplash.jpg\" data-entity-uuid=\"5d646cc7-0505-40de-8bda-044244a197ef\" data-entity-type=\"file\" alt=\"Assigning a task to each team member:  Photo by Parabol on Unsplash.\"><p><br>It could be challengeable action to split novel writing activity between a few people. I can propose a few ideas that could work. First, we can split the novel into different characters, for example, each participant can take one character and describe his or her past background, habits, wishes, and so on. &nbsp; &nbsp;<\/p><p>Of course, we can split work into different chapters, but or parts and it might work in the case if the plot of the story allows some independent parts, but in the case of splitting by parts, we can lose the ability of teamwork.&nbsp;<br><br>I think that the more productive way can be working together on each part of the story sprint by sprint. The First Chapter can be the scope of the First Sprint and so on.<br>&nbsp;<\/p><img src=\"\/sites\/default\/files\/inline-images\/kelly-sikkema-sn8Pbp_X0wE-unsplash.jpg\" data-entity-uuid=\"7ac71114-686d-4e88-be64-85db57916c0f\" data-entity-type=\"file\" alt=\"The first chapter: Photo by Kelly Sikkema on Unsplash.\"><p><br>In the upcoming blog posts, I'm going to provide a few examples and maybe start some Open Source Literature artwork. Please, wait for the updates in the blog.&nbsp;<br>&nbsp;<\/p><p>&nbsp;<\/p>",
+            "format": "rich_text",
+            "summary": ""
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "SCRUM illustration: Photo by Parabol on Unsplash.",
+            "title": "",
+            "width": 3008,
+            "height": 2008,
+            "target_type": "file",
+            "target_uuid": "7860b0e0-06e3-4d83-b95d-c2e21e6afb1b"
+        }
+    ],
+    "field_tags": []
+}
