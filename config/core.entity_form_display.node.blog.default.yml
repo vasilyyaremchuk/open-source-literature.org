@@ -4,6 +4,7 @@ status: true
 dependencies:
   config:
     - field.field.node.blog.body
+    - field.field.node.blog.field_comments
     - field.field.node.blog.field_image
     - field.field.node.blog.field_tags
     - image.style.social_card
@@ -11,6 +12,7 @@ dependencies:
   module:
     - bookish_image
     - bookish_tags
+    - disqus
     - path
     - text
 _core:
@@ -33,6 +35,12 @@ content:
   created:
     type: datetime_timestamp
     weight: 10
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_comments:
+    type: disqus_comment
+    weight: 124
     region: content
     settings: {  }
     third_party_settings: {  }

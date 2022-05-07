@@ -25,7 +25,9 @@
         "drush/drush": "^10.3",
         "drupal/tome": "^1.0",
         "drupal-tome/tome_drush": "dev-master",
-        "drupal-tome/bookish": "^1.0"
+        "drupal-tome/bookish": "^1.0",
+        "drupal/disqus": "^2.0@alpha",
+        "drupal/responsive_media_image": "^1.0"
     },
     "scripts": {
         "symlink": "./scripts/symlink.sh",
@@ -49,6 +51,13 @@
           "locations": {
               "web-root": "web/"
           }
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true,
+            "cweagans/composer-patches": true,
+            "drupal/core-composer-scaffold": true
         }
     }
 }

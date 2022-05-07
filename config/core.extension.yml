@@ -25,6 +25,7 @@ module:
   ctools: 0
   datetime: 0
   dblog: 0
+  disqus: 0
   dynamic_page_cache: 0
   editor: 0
   field: 0
@@ -48,6 +49,7 @@ module:
   path: 0
   path_alias: 0
   rdf: 0
+  responsive_image: 0
   serialization: 0
   sfc: 0
   shortcut: 0
