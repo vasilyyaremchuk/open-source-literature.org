@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-05-04T18:53:11+00:00",
+            "value": "2022-05-07T18:36:35+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-05-04T18:53:11+00:00",
+            "value": "2022-05-07T18:36:35+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -91,7 +91,12 @@
             "summary": ""
         }
     ],
-    "field_comments": [],
+    "field_comments": [
+        {
+            "status": 1,
+            "identifier": ""
+        }
+    ],
     "field_image": [
         {
             "alt": "Photo by Roman Synkevych \ud83c\uddfa\ud83c\udde6 on Unsplash.",
