@@ -7,6 +7,8 @@
 {% endfor %}
 {% include 'sfc--bk-blog' with {
   'title': node.label(),
+  'id': node.id,
+  'url': path('entity.node.canonical', {'node': node.id}),
   'time': node.created.value,
   'text': node.body|view({
     'label': 'hidden',
