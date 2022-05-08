@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "b2ad9e02-30bf-4888-b520-b521857c1624"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "6f7249c4-6c5d-44bb-8849-153548b7793e"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-05-08T08:33:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "bfbf5663-558c-4ac7-97da-c302be9d2c6a"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "bfbf5663-558c-4ac7-97da-c302be9d2c6a"
+        }
+    ],
+    "title": [
+        {
+            "value": "Comment Policy"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-05-08T08:28:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-08T08:33:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/comment-policy",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Comments are welcomed and encouraged on this site, but there are some instances where comments will be edited or deleted as follows:<\/p><ul><li>Comments deemed to be spam or solely promotional in nature will be deleted. Including a link to relevant content is permitted, but comments should be relevant to the post topic.<\/li><li>Comments including profanity will be deleted.<\/li><li>Comments containing language or concepts that could be deemed offensive will be deleted. Note this may include abusive, threatening, pornographic, offensive, misleading or libelous language.<\/li><li>Comments that attack an individual directly will be deleted.<\/li><li>Comments that harass other posters will be deleted. Please be respectful toward other contributors.<\/li><li>Anonymous comments will be deleted. We only accept comments from posters who identify themselves.<\/li><\/ul><p>The owner of this blog reserves the right to edit or delete any comments submitted to the blog without notice. This comment policy is subject to change at any time. If you have any questions about the commenting policy, please let us know at <a href=\"https:\/\/abzats.com\/#contacts\">https:\/\/abzats.com\/#contacts<\/a>.<\/p>",
+            "format": "rich_text",
+            "summary": ""
+        }
+    ],
+    "field_image": []
+}

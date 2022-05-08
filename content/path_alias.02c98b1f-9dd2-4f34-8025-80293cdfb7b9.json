@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "02c98b1f-9dd2-4f34-8025-80293cdfb7b9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b2ad9e02-30bf-4888-b520-b521857c1624"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/comment-policy"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

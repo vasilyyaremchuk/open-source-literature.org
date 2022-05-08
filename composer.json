@@ -26,8 +26,9 @@
         "drupal/tome": "^1.0",
         "drupal-tome/tome_drush": "dev-master",
         "drupal-tome/bookish": "^1.0",
-        "drupal/disqus": "^2.0@alpha",
-        "drupal/responsive_media_image": "^1.0"
+        "drupal/disqus": "^1.0",
+        "drupal/responsive_media_image": "^1.0",
+        "drupal/gin": "^3.0@beta"
     },
     "scripts": {
         "symlink": "./scripts/symlink.sh",
