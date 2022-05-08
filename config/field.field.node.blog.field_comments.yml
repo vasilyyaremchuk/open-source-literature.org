@@ -17,7 +17,7 @@ required: false
 translatable: false
 default_value:
   -
-    status: false
+    status: 1
     identifier: ''
 default_value_callback: ''
 settings: {  }

@@ -1,0 +1,22 @@
+uuid: bea0ebf2-e596-420b-a3a0-f2ba75f62cf2
+langcode: en
+status: true
+dependencies:
+  theme:
+    - openlit
+_core:
+  default_config_hash: JSACcIzS9I_JqKPuks_GQEHEbxqCxlCfgY44qdomYpQ
+id: openlit_tabs
+theme: openlit
+region: content
+weight: 0
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: true
+visibility: {  }

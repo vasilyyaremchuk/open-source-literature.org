@@ -1,0 +1,10 @@
+name: OpenLit
+type: theme
+base theme: bookish_theme
+description: 'Open Sourse Literature theme, Bookish subtheme.'
+core_version_requirement: '^9'
+libraries:
+  - bookish_sub_theme/main
+regions:
+  before: Before
+  content: Content
