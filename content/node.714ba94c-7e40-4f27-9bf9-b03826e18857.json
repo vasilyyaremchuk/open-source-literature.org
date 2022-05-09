@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-05-07T18:36:35+00:00",
+            "value": "2022-05-09T11:02:23+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-05-07T18:36:35+00:00",
+            "value": "2022-05-09T11:02:23+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -72,16 +72,12 @@
             "value": true
         }
     ],
-    "revision_translation_affected": [
-        {
-            "value": true
-        }
-    ],
+    "revision_translation_affected": [],
     "path": [
         {
             "alias": "\/blog\/initial-version-open-source-literature-manifesto",
             "langcode": "en",
-            "pathauto": 1
+            "pathauto": 0
         }
     ],
     "body": [
