@@ -18,20 +18,20 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-04-26T16:02:18+00:00",
+            "value": "2022-05-14T05:53:12+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "40c31d00-a7c1-4c41-97cf-b8afec38ff0d"
+            "target_uuid": "bfbf5663-558c-4ac7-97da-c302be9d2c6a"
         }
     ],
     "revision_log": [],
     "status": [
         {
-            "value": false
+            "value": true
         }
     ],
     "uid": [
@@ -42,7 +42,7 @@
     ],
     "title": [
         {
-            "value": "A day at the Japanese Garden"
+            "value": "Dictionary of the Khazars: a Fake Open-Source Literature Example"
         }
     ],
     "created": [
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-05-04T17:58:09+00:00",
+            "value": "2022-05-14T05:53:12+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,37 +79,33 @@
     ],
     "path": [
         {
-            "alias": "\/blog\/day-japanese-garden",
+            "alias": "\/blog\/dictionary-khazars",
             "langcode": "en",
-            "pathauto": 1
+            "pathauto": 0
         }
     ],
     "body": [
         {
-            "value": "<p>Bitters brunch selvage celiac migas cred salvia flannel ethical gluten-free pop-up. Succulents photo booth authentic, skateboard tousled vinyl hell of single-origin coffee aesthetic chia farm-to-table gentrify pop-up affogato tattooed. Readymade lo-fi 90's asymmetrical hoodie, yr intelligentsia synth unicorn single-origin coffee edison bulb put a bird on it next level. Neutra godard master cleanse whatever tilde, copper mug before they sold out photo booth shoreditch pinterest next level snackwave sartorial. Cloud bread fanny pack street art fam, 90's flexitarian ugh snackwave biodiesel slow-carb ramps squid venmo.<\/p>\n<pre><code class=\"language-php\">&lt;?php\necho \"You can embed code snippets\";\nif (TRUE) {\n  echo \"They're automatically highlighted!\";\n}<\/code><\/pre>\n<h2>Headings automatically have anchor links<\/h2>\n<p>Brunch fashion axe helvetica affogato blue bottle, fixie shoreditch venmo. Post-ironic hexagon truffaut vegan crucifix, waistcoat ugh chillwave flannel. Deep v pop-up iPhone chia, live-edge blog pork belly etsy PBR&B. Vape disrupt air plant XOXO wayfarers coloring book banh mi knausgaard. Roof party fanny pack forage raw denim poutine humblebrag. Semiotics swag tumblr, vaporware truffaut bushwick tote bag poutine fam enamel pin salvia affogato.<\/p>",
+            "value": "<p>In world literature, we have some examples of the collective work on some fictional and non-fictional stories. The Gospel might be a good example of teamwork in a non-fiction story, but what about fiction?<\/p><p>A well-known <a href=\"https:\/\/en.wikipedia.org\/wiki\/Dictionary_of_the_Khazars\"><em><strong>Dictionary of the Khazars: A Lexicon Novel<\/strong><\/em><\/a> by <a href=\"https:\/\/en.wikipedia.org\/wiki\/Milorad_Pavi%C4%87_(writer)\">Milorad Pavi\u0107<\/a>, could be an example of a literature novel created by a few people. We know that Avram Brankovich, Yusuf Masudi, and Samuel Cohen are just fictional characters from the 17th century. Milorad Pavich made a cool model how what it can look like when one story is described by a few people. They tell stories from their different points of view and from the plot and the result of the novel in those 3 cases is pretty different. They work on the same story but they don't know about each other and they don't communicate, cooperate, and so on.<\/p><img data-entity-uuid=\"b313b6e8-7ae4-4495-bee1-cca479fb4a61\" data-entity-type=\"file\" src=\"\/sites\/default\/files\/inline-images\/emmanuel-phaeton-LFdLnnzvJw4-unsplash.jpg\" alt=\"Book opened: Photo by Emmanuel Phaeton on Unsplash.\"><p>While the model where people work independently on the different parts of the novel may work as well, the Open-Source Literature approach recommends people communicate and cooperate with the other members of the crew and propose improvements in the texts of the other people. Does it make sense?<\/p>",
             "format": "rich_text",
-            "summary": null
+            "summary": ""
         }
     ],
-    "field_comments": [],
+    "field_comments": [
+        {
+            "status": 1,
+            "identifier": ""
+        }
+    ],
     "field_image": [
         {
-            "alt": "A trail at the Japanese Garden in Portland, Oregon.",
-            "title": null,
-            "width": 1920,
-            "height": 1280,
+            "alt": "Church hall: Photo by JOHN TOWNER on Unsplash. ",
+            "title": "",
+            "width": 4096,
+            "height": 2731,
             "target_type": "file",
-            "target_uuid": "6d16d801-f2fd-4605-a92d-8b8759c5391f"
+            "target_uuid": "3c6d9835-5516-4d34-8621-c60139839d6a"
         }
     ],
-    "field_tags": [
-        {
-            "target_type": "taxonomy_term",
-            "target_uuid": "81735d1b-e508-4dce-b6c7-0b7b6bc343d0"
-        },
-        {
-            "target_type": "taxonomy_term",
-            "target_uuid": "e33bd3bf-31f0-4ae8-be6a-d1b51f39418d"
-        }
-    ]
+    "field_tags": []
 }
