@@ -1,0 +1,60 @@
+{
+    "uuid": [
+        {
+            "value": "86875a4d-c09a-4279-b321-634c6e2b737f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "bfbf5663-558c-4ac7-97da-c302be9d2c6a"
+        }
+    ],
+    "filename": [
+        {
+            "value": "adam-winger-t7TfzV1oNuw-unsplash.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-05\/adam-winger-t7TfzV1oNuw-unsplash.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 883770
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-05-15T06:34:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-15T06:35:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "bookish_image_data": [
+        {
+            "value": "{\"brightness\":0,\"contrast\":0,\"saturation\":0,\"blur\":0,\"grayscale\":0,\"hue\":0,\"red\":0,\"green\":0,\"blue\":0,\"focal_point\":[1024,1536],\"zoom\":0}"
+        }
+    ]
+}

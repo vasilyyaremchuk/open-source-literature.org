@@ -18,20 +18,20 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-04-26T16:02:18+00:00",
+            "value": "2022-05-15T06:41:02+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "40c31d00-a7c1-4c41-97cf-b8afec38ff0d"
+            "target_uuid": "bfbf5663-558c-4ac7-97da-c302be9d2c6a"
         }
     ],
     "revision_log": [],
     "status": [
         {
-            "value": false
+            "value": true
         }
     ],
     "uid": [
@@ -42,7 +42,7 @@
     ],
     "title": [
         {
-            "value": "If monkeys can take baths, so can you"
+            "value": "Play \"In a Room\" is Open-Source Literature Art Work Where You Can Contribute Just Now"
         }
     ],
     "created": [
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-05-04T17:58:09+00:00",
+            "value": "2022-05-15T06:41:02+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,27 +79,32 @@
     ],
     "path": [
         {
-            "alias": "\/blog\/if-monkeys-can-take-baths-so-can-you",
+            "alias": "\/blog\/play-room-open-source-literature",
             "langcode": "en",
-            "pathauto": 1
+            "pathauto": 0
         }
     ],
     "body": [
         {
-            "value": "<p>Bitters brunch selvage celiac migas cred salvia flannel ethical gluten-free pop-up. Succulents photo booth authentic, skateboard tousled vinyl hell of single-origin coffee aesthetic chia farm-to-table gentrify pop-up affogato tattooed. Readymade lo-fi 90's asymmetrical hoodie, yr intelligentsia synth unicorn single-origin coffee edison bulb put a bird on it next level. Neutra godard master cleanse whatever tilde, copper mug before they sold out photo booth shoreditch pinterest next level snackwave sartorial. Cloud bread fanny pack street art fam, 90's flexitarian ugh snackwave biodiesel slow-carb ramps squid venmo.<\/p>\n<pre><code class=\"language-php\">&lt;?php\necho \"You can embed code snippets\";\nif (TRUE) {\n  echo \"They're automatically highlighted!\";\n}<\/code><\/pre>\n<h2>Headings automatically have anchor links<\/h2>\n<p>Brunch fashion axe helvetica affogato blue bottle, fixie shoreditch venmo. Post-ironic hexagon truffaut vegan crucifix, waistcoat ugh chillwave flannel. Deep v pop-up iPhone chia, live-edge blog pork belly etsy PBR&B. Vape disrupt air plant XOXO wayfarers coloring book banh mi knausgaard. Roof party fanny pack forage raw denim poutine humblebrag. Semiotics swag tumblr, vaporware truffaut bushwick tote bag poutine fam enamel pin salvia affogato.<\/p>",
+            "value": "<p>I've started a simple play, the idea of the play is simple. It could be a room with a man and a woman inside.<\/p><p>No matter where this room is, the outside world certainly influences what happens in the room, but this influence is just secondary, as well as the influence of the past and the future. We live in the present.<\/p><p>It could be a few stories and a set of dialogs. People in different stories could be different but it might be some connections between different stories, for example, some couples can leave some goods in the room that can appear in the next story and so on.<\/p><img data-entity-uuid=\"8b27e203-bf78-49ad-89b9-c8512a23d376\" data-entity-type=\"file\" src=\"\/sites\/default\/files\/inline-images\/christopher-jolly-GqbU78bdJFM-unsplash.jpg\" alt=\"A room: Photo by Christopher Jolly on Unsplash.\"><p>More information you can find on the Project page on Github: <a href=\"https:\/\/github.com\/vasilyyaremchuk\/osl-in-a-room\">https:\/\/github.com\/vasilyyaremchuk\/osl-in-a-room<\/a><\/p><p>If you want to contribute, you just need to register on Github if you still don't have an account and go to the project page.<\/p><p>When you'll start editing pages Github automatically creates a fork of the repository. You can add new Chapters or edit existing ones.&nbsp;<br><br>Don't forget to explain your changes in a short description it will be easy to review and approve them.<\/p><img src=\"\/sites\/default\/files\/inline-images\/OSL-comment.png\" data-align=\"center\" data-entity-uuid=\"358522b7-fc16-4078-84ec-7cffc54c5283\" data-entity-type=\"file\" alt=\"Commit message.\" width=\"70.41%\"><p>After that, you can create a pull request to send changes to the review by clicking on the green button \"Create pull request\".<\/p><img src=\"\/sites\/default\/files\/inline-images\/OSL-pull-request.png\" data-align=\"center\" data-entity-uuid=\"46d6e6d5-6eb4-4ff6-b5d3-9ea8e1396757\" data-entity-type=\"file\" alt=\"Pull request.\" width=\"89.61%\"><p>After that, the project maintainer will see your pull request in their account and can review it, approve and merge or send to you any message with the reasons for rejection and what should be rebuilt.<\/p><img src=\"\/sites\/default\/files\/inline-images\/OSL-review.png\" data-align=\"center\" data-entity-uuid=\"ee8538c2-e238-4cd0-ae9e-c7e877c59176\" data-entity-type=\"file\" alt=\"The request on the review.\" width=\"83.08%\"><p>After merging your contribution will be visible in a commit log. It's a good idea to log the contribution of each team member.<\/p><p>Please feel free to contribute!<\/p><p>I'm sure that we can make something great together.<\/p><p><br><br>&nbsp;<\/p>",
             "format": "rich_text",
-            "summary": null
+            "summary": ""
         }
     ],
-    "field_comments": [],
+    "field_comments": [
+        {
+            "status": 1,
+            "identifier": ""
+        }
+    ],
     "field_image": [
         {
-            "alt": "A monkey in a Japanese hot springs.",
-            "title": null,
-            "width": 1920,
-            "height": 1280,
+            "alt": "Man and woman: Photo by Adam Winger on Unsplash.",
+            "title": "",
+            "width": 2048,
+            "height": 3072,
             "target_type": "file",
-            "target_uuid": "bd949183-5fc3-43af-83e4-dc38a090a2d2"
+            "target_uuid": "86875a4d-c09a-4279-b321-634c6e2b737f"
         }
     ],
     "field_tags": []

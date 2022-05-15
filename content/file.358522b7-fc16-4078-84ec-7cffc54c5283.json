@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "358522b7-fc16-4078-84ec-7cffc54c5283"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "bfbf5663-558c-4ac7-97da-c302be9d2c6a"
+        }
+    ],
+    "filename": [
+        {
+            "value": "OSL-comment.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/inline-images\/OSL-comment.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 86454
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-05-15T06:16:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-15T06:35:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "bookish_image_data": []
+}

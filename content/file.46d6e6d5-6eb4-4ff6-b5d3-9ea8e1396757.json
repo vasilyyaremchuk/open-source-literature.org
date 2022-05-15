@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "46d6e6d5-6eb4-4ff6-b5d3-9ea8e1396757"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "bfbf5663-558c-4ac7-97da-c302be9d2c6a"
+        }
+    ],
+    "filename": [
+        {
+            "value": "OSL-pull-request.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/inline-images\/OSL-pull-request.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 286894
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-05-15T06:21:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-15T06:35:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "bookish_image_data": []
+}
