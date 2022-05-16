@@ -28,7 +28,8 @@
         "drupal-tome/bookish": "^1.0",
         "drupal/disqus": "^1.0",
         "drupal/responsive_media_image": "^1.0",
-        "drupal/gin": "^3.0@beta"
+        "drupal/gin": "^3.0@beta",
+        "drupal/menu_link_attributes": "^1.2"
     },
     "scripts": {
         "symlink": "./scripts/symlink.sh",

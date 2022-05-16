@@ -42,7 +42,12 @@
         {
             "uri": "https:\/\/github.com\/vasilyyaremchuk\/open-source-literature-manifesto",
             "title": "",
-            "options": []
+            "options": {
+                "attributes": {
+                    "class": [],
+                    "target": "_blank"
+                }
+            }
         }
     ],
     "external": [
@@ -68,7 +73,7 @@
     "parent": [],
     "changed": [
         {
-            "value": "2022-05-16T12:49:53+00:00",
+            "value": "2022-05-16T15:01:02+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
