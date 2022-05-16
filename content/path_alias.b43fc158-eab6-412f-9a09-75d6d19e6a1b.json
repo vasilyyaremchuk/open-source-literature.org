@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b43fc158-eab6-412f-9a09-75d6d19e6a1b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2e62e086-efa8-46ae-9c18-a4a1cfac0653"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/blog\/scrum-training-open-source-literature"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

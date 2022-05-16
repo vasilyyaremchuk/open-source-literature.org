@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "fa52d374-0ff7-4cd1-bfc8-ae8c7d6dbefe"
+            "value": "f6f8b316-0716-4a17-8d0a-feb2b207657a"
         }
     ],
     "langcode": [
@@ -16,7 +16,7 @@
     ],
     "revision_created": [
         {
-            "value": "2022-04-26T16:02:18+00:00",
+            "value": "2022-05-16T12:49:53+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -29,7 +29,7 @@
     ],
     "title": [
         {
-            "value": "Blog"
+            "value": "Manifesto"
         }
     ],
     "description": [],
@@ -40,7 +40,7 @@
     ],
     "link": [
         {
-            "uri": "internal:\/blog\/",
+            "uri": "https:\/\/github.com\/vasilyyaremchuk\/open-source-literature-manifesto",
             "title": "",
             "options": []
         }
@@ -52,7 +52,7 @@
     ],
     "rediscover": [
         {
-            "value": true
+            "value": false
         }
     ],
     "weight": [
@@ -68,7 +68,7 @@
     "parent": [],
     "changed": [
         {
-            "value": "2022-05-16T12:51:38+00:00",
+            "value": "2022-05-16T12:49:53+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
