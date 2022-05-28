@@ -8,4 +8,4 @@ logo:
 favicon:
   use_default: 1
 bookish_copyright_name: 'Open Source Literature'
-bookish_color_mode: none
+bookish_color_mode: dark

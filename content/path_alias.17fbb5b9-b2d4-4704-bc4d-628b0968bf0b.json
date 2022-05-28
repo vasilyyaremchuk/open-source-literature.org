@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "17fbb5b9-b2d4-4704-bc4d-628b0968bf0b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8c6c9f50-e10f-49f8-9342-5f9bf0294a10"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/blog\/dictionary-khazars"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
