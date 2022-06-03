@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "dd70f8e5-f805-468a-87cc-52a51aef4fd4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/714ba94c-7e40-4f27-9bf9-b03826e18857"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/blog\/initial-version-open-source-literature-manifesto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

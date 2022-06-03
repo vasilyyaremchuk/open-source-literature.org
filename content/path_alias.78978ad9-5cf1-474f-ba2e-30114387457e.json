@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "78978ad9-5cf1-474f-ba2e-30114387457e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/fa83e4a0-2173-411f-b8c4-3283006af969"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/blog\/play-room-open-source-literature"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
